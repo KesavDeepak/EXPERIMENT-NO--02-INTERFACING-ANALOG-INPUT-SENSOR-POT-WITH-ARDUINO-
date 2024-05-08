@@ -64,7 +64,8 @@ CIRCUIT DIAGRAM
 
 
 
-**PROGRAM** 
+### PROGRAM
+
  Done by : KESAV DEEPAK SRIDHARAN
  Register No : 212223230104
  ```c++
