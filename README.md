@@ -1,7 +1,5 @@
 ##### DATE:
-##### NAME: Kesav Deepak Sridharan
-##### ROLL NO: 212223230104
-##### DEPARTMENT: Artificil Intelligence and Data Science
+
 ## Experiment-02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
 ### AIM:  
 To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
